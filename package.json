@@ -1,0 +1,15 @@
+{
+  "name": "Hello World",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab.com/saravanan-boodskap/boodskap-platform-web.git"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
