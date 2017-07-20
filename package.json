@@ -1,9 +1,9 @@
 {
-  "name": "Hello World",
+  "name": "saravanans",
   "version": "1.0.0",
   "repository": {
     "type": "git",
-    "url": "https://gitlab.com/saravanan-boodskap/boodskap-platform-web.git"
+    "url": "https://github.com/saravanans-arch/express-hello-world.git"
   },
   "scripts": {
     "start": "node server.js"
